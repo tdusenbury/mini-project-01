@@ -1,0 +1,14 @@
+body {  
+    background-color: orangered
+ }
+
+img {
+    position:relative;
+    width: 300px;
+    height: 300px;
+    border: 25px  black;
+    left: 500 px;
+
+}
+
+
